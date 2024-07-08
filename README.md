@@ -1,1 +1,1 @@
-# Analyze-data-in-an-expenditure-and-default-database-using-Python
+# Data analysis project on an expenditure and default database
